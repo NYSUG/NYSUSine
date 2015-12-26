@@ -1,4 +1,5 @@
 ### NYSUSine.cs tool for using sinewaves
+This utility was developed for my game Atomic Space Command. Check it out: http://atomicspacecommand.net
 
 ### Usage
 
